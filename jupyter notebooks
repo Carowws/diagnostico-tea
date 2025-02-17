@@ -1,0 +1,9 @@
+Escrever em python
+
+incluir gráficos, tabelas e explicações em texto no mesmo documento. Eles são amplamente usados para análise de dados, machine learning e ciência de dados.
+
+No seu projeto, o diretório notebooks/ servirá para armazenar os cadernos interativos contendo:
+✔️ Passo a passo da análise (limpeza, transformação e visualização dos dados).
+✔️ Códigos Python comentados para facilitar o entendimento.
+✔️ Gráficos e tabelas para apresentar insights.
+
