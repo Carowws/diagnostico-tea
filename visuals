@@ -1,0 +1,19 @@
+📊 Gráficos e Visualizações:
+
+distribuicao_idade_diagnostico.png → Gráfico mostrando a distribuição das idades em que os diagnósticos de TEA foram feitos.
+correlacao_socioeconomica.png → Mapa de calor mostrando a correlação entre fatores socioeconômicos e o diagnóstico tardio.
+comparacao_acesso_saude.png → Gráfico de barras comparando o tempo de diagnóstico entre diferentes níveis de acesso à saúde.
+📜 Relatórios Visuais:
+
+dashboard_powerbi.pdf → Relatório exportado do Power BI, se for utilizado.
+mapa_diagnostico_teA.png → Mapa geográfico com distribuição de diagnósticos por região.
+📂 Estrutura da Pasta
+
+Copiar
+Editar
+📂 visuals/
+├── distribuiçao_idade_diagnostico.png
+├── correlacao_socioeconomica.png
+├── comparacao_acesso_saude.png
+├── dashboard_powerbi.pdf
+├── mapa_diagnostico_tea.png
