@@ -1,0 +1,6 @@
+📁 diagnostico-tea/
+├── 📁 data/               ← onde vão ficar os dados
+├── 📁 visuals/            ← onde salvaremos os gráficos
+├── 📁 notebooks/          ← onde está seu .ipynb
+├── README.md             ← descrição do projeto
+└── requirements.txt      ← bibliotecas necessárias
