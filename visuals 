@@ -1,0 +1,7 @@
+plt.figure(figsize=(10, 5))
+sns.histplot(df["idade_diagnostico"], bins=10, kde=True, color="blue")
+plt.title("Distribuição da Idade no Diagnóstico de TEA")
+plt.xlabel("Idade no Diagnóstico")
+plt.ylabel("Número de Casos")
+plt.savefig("../visuals/hist_idade_diagnostico.png")
+plt.show()
