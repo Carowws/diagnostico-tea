@@ -1,41 +1,59 @@
-# diagnostico-tea
+# Diagnóstico Tardio de TEA (Transtorno do Espectro Autista)
 
-Análise do Diagnóstico Tardio de TEA
-📌 Objetivo
-Este projeto investiga os fatores associados ao diagnóstico tardio do Transtorno do Espectro Autista (TEA), analisando como variáveis socioeconômicas e demográficas influenciam o tempo até a identificação da condição.
+> **Objetivo:**  
+Investigar os fatores que contribuem para o diagnóstico tardio de TEA, analisando a influência de variáveis socioeconômicas e demográficas no tempo de identificação da condição.
 
-📊 Metodologia
-Coleta de Dados: Utilização de datasets públicos sobre TEA.
-Análise Exploratória: Limpeza, visualização e correlação dos dados.
-Ferramentas: Python (Pandas, Seaborn, Matplotlib), Jupyter Notebook, Power BI.
-🔍 Resultados Esperados
-Identificação de padrões no diagnóstico tardio, fornecendo insights para políticas públicas e estratégias para um diagnóstico mais precoce.
+---
 
+### :bar_chart: Ferramentas Utilizadas
+- **Linguagem:** Python 3.x  
+- **Bibliotecas:** `pandas`, `matplotlib`, `seaborn`  
+- **Ambiente:** Jupyter Notebook (VS Code)  
+- **Outras ferramentas:** Power BI (visualizações complementares)
 
+---
 
-Análise de Diagnóstico Tardio de TEA
+### :mag_right: Metodologia
+1. **Coleta de Dados:** Datasets públicos sobre TEA (ex: IBGE, DATASUS, Autism Speaks).
+2. **Tratamento:** Limpeza e preparação com `pandas`.
+3. **Análise Exploratória (EDA):**
+   - Visualizações com `seaborn` e `matplotlib`;
+   - Cálculo de correlações entre idade de diagnóstico e variáveis como renda, escolaridade e região.
+4. **Visualização de Insights:** Dashboards no Power BI.
 
-Este projeto investiga padrões e fatores associados ao diagnóstico tardio de Transtorno do Espectro Autista (TEA), explorando dados demográficos e socioeconômicos.
+---
 
-## Ferramentas
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- VS Code com suporte a Jupyter Notebooks
+### :dart: Principais Objetivos
+- Medir a **idade média de diagnóstico**.
+- Avaliar a relação entre **nível socioeconômico e acesso à saúde**.
+- Identificar **regiões com maior incidência de diagnóstico tardio**.
+- Sugerir **direcionamentos para políticas públicas mais eficazes**.
 
-## Estrutura do Projeto
-- `data/`: arquivos com dados utilizados.
-- `notebooks/`: notebooks com a análise.
-- `visuals/`: gráficos e visualizações gerados.
-- `requirements.txt`: pacotes Python necessários.
+---
 
-## Objetivos
-- Visualizar a idade média de diagnóstico.
-- Investigar como o acesso à saúde e renda influenciam o diagnóstico.
-- Apontar sugestões baseadas nos dados.
-
-## Status
-Em desenvolvimento.
+### :file_folder: Estrutura do Projeto
 
 
+---
+
+### :construction: Status
+> Projeto em desenvolvimento — análises em andamento e melhorias contínuas no dashboard e nas conclusões.
+
+---
+
+### :rocket: Melhorias Futuras
+- Inclusão de modelo preditivo com Machine Learning.
+- Cruzamento com dados de educação e saúde por município.
+- Otimização de visualizações em Power BI e Storytelling com dados.
+
+---
+
+### :handshake: Contribuição
+Caso tenha interesse em colaborar, sinta-se à vontade para abrir uma *issue* ou enviar uma *pull request*.
+
+---
+
+### :link: Contato
+**Carolyne Cordeiro**  
+[LinkedIn](https://www.linkedin.com/in/carolyne-cordeiro-911773157/)  
+carolynecordeirov@gmail.com
