@@ -1,0 +1,101 @@
+Etapa 1 — Estrutura Inicial do Projeto
+
+Objetivo: Organizar seu repositório e ambiente
+
+[ ] Criar a pasta diagnostico-tea/
+
+[ ] Criar subpastas: data/, notebooks/, visuals/, docs/
+
+[ ] Criar o README.md (vou te ajudar a atualizar conforme o projeto evoluir)
+
+[ ] Criar um requirements.txt com: pandas, matplotlib, seaborn, jupyter
+
+
+
+---
+
+Etapa 2 — Coleta e Escolha de Dados
+
+Objetivo: Selecionar uma base relevante e confiável
+
+Sugestões de fontes:
+
+IBGE – Censos, PNS
+
+DATASUS – Atendimento de TEA no SUS
+
+Kaggle – Pesquise por "autism" ou "autism diagnosis"
+
+
+Se precisar, posso te ajudar a baixar, limpar ou traduzir os dados.
+
+
+---
+
+Etapa 3 — Análise Exploratória (EDA)
+
+Objetivo: Entender os dados e descobrir padrões
+
+Ferramentas: pandas, matplotlib, seaborn
+
+[ ] Limpeza (tratamento de nulos, conversão de tipos)
+
+[ ] Descrição estatística (idade média de diagnóstico, faixa etária, região)
+
+[ ] Visualizações:
+
+Histograma da idade de diagnóstico
+
+Boxplot por região ou classe social
+
+Heatmap de correlações
+
+
+
+Se quiser, posso montar contigo um template de notebook para começar.
+
+
+---
+
+Etapa 4 — Dashboard no Power BI
+
+Objetivo: Criar visualizações acessíveis e interativas
+
+[ ] Importar dataset tratado
+
+[ ] Criar gráficos principais: idade por região, por renda, por gênero
+
+[ ] Criar um painel com filtros interativos
+
+[ ] Exportar para imagem + link se quiser publicar no Power BI Web
+
+
+
+---
+
+Etapa 5 — Conclusão e Impacto
+
+Objetivo: Transformar os dados em recomendações
+
+[ ] Escrever insights claros no notebook final
+
+[ ] Destacar conclusões relevantes: há atraso maior em alguma região? classe social? gênero?
+
+[ ] Sugerir ações baseadas nos dados: mais campanhas, capacitação, triagem etc.
+
+
+
+---
+
+Etapa 6 — Publicação
+
+Objetivo: Mostrar seu trabalho com impacto
+
+[ ] Atualizar o README com prints e descrição final
+
+[ ] Subir notebooks e imagens no GitHub
+
+[ ] Gerar imagem de capa personalizada
+
+[ ] Postar no LinkedIn com link para o projeto
+
